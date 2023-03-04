@@ -29,6 +29,6 @@
     }
 ## Дополнительно
 
-алгоритм находится в фале algorithm_homework.py
+алгоритм находится в фале https://github.com/MonkeyQY/parse_card_wb_django/blob/6d6e87d7adc59a0bb6c2b0a353c3c63baa07db2e/algorithm_homework.py#L4
 
 все части задания выполнены
