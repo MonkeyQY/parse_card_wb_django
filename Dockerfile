@@ -7,6 +7,8 @@ WORKDIR /app
 # скопировать файлы проекта в рабочую директорию
 COPY . /app
 
+COPY ./.env_example ./.env
+
 RUN python -m pip install --upgrade pip
 # установить зависимости
 RUN pip install -r requirements.txt
